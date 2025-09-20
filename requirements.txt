@@ -3,3 +3,6 @@ pypdf
 pdfplumber
 python-docx
 nltk
+openai 
+datetime
+json 
